@@ -1,0 +1,53 @@
+div {
+    display: flex;
+    color: white;
+}
+
+.container2 {
+    width: 15%;
+    flex-direction: column;
+}
+
+.box {
+    padding: 40px 65px;
+}
+
+.box1 {
+    background-color: aqua;
+}
+
+.box2 {
+    background-color: limegreen;
+}
+
+.box3 {
+    background-color: blue;
+}
+
+.box4 {
+    background-color: purple;
+}
+
+.box5 {
+    background-color: black;
+}
+
+.box6 {
+    background-color: yellow;
+}
+
+.box7 {
+    background-color: orange;
+}
+
+.box7 {
+    background-color: red;
+}
+
+.box8 {
+    background-color: gray;
+}
+
+.box9 {
+    background-color: greenyellow;
+}
